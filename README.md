@@ -49,6 +49,13 @@ How to run the program
 dotnet test
 ```
 
+### Test cases
+
+* Login to page nabava.net
+* Put an item in wishlist
+* Navigate products price history
+* Write comment on specific product
+* Add and remove notification for product
 
 ## Authors
 
