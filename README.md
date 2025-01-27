@@ -52,4 +52,4 @@ dotnet test
 
 ## Authors
 
-ex. Mislav Češnik
+Mislav Češnik
